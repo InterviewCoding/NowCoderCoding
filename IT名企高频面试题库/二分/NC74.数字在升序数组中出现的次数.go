@@ -13,7 +13,6 @@ import "fmt"
  * @param data int整型一维数组
  * @param k int整型
  * @return int整型
-
 思路：求出数字在数组中出现的第一个位置的下标以及最后一个位置的下标，如果没有出现则返回-1
 ✅
 */
